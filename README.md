@@ -1,4 +1,6 @@
 # CryptoTradeAI
+![image](https://github.com/rolik1337/CryptoTradeAI/assets/20239487/d95b1c5c-3df0-4e2a-9a5c-e4bbbf9f8567)
+
 1. Upon opening, go to settings.
 2. I recommend setting in the preferences to prevent the bot from entering trades beyond -1%.
 3. Add the exchange account, it supports almost all cryptocurrency exchanges.
