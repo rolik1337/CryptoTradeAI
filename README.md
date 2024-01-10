@@ -9,6 +9,8 @@ With this bot, I turned $100 into $7000 in just a couple of days.
 
 Detailed installation guide for this software is available on my Telegram:
 
+https://t.me/+wRUxE1c3n3s2MTVi
+
 tags: CryptoProfitAI TradingRevolution AIInvesting DigitalCurrencyBots
 SmartInvestment CryptoWealth AlgorithmicWealth AutomatedProfits
 AITradingStrategies CryptoSuccess FinancialFreedomAI SmartTradingDecisions
