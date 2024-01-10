@@ -1,5 +1,5 @@
 # CryptoTradeAI
-![image](https://github.com/rolik1337/CryptoTradeAI/assets/20239487/d95b1c5c-3df0-4e2a-9a5c-e4bbbf9f8567)
+![image](https://github.com/rolik1337/CryptoTradeAI/assets/20239487/e8aa3119-ce8c-42f3-9599-679cd00e07f6)
 
 1. Upon opening, go to settings.
 2. I recommend setting in the preferences to prevent the bot from entering trades beyond -1%.
